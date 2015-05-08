@@ -70,9 +70,6 @@ public class CodeInjector {
 		               targetClass + ", verify that it ClassPool has been configured to look " +
 		               "into the right location");
 		      }
-		      catch (RuntimeException e){
-		    	  
-		      }
 		   }
 
 	public GameBoard getMyGameBoard() {
